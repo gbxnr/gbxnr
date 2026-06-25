@@ -27,8 +27,8 @@ I am a dedicated professional who is constantly seeking to expand my knowledge a
 
 ###
 
-<h2 data-importer="text" align="left">I work with hardware maintenance and technology solutions. I am passionate about technology, particularly programming, hardware, and gaming. I also enjoy sports and value teamwork, discipline, and continuous self-improvement. I am always eager to learn new skills and stay updated with the latest technological advancements.
-</h2>
+<h2 data-importer="text" align="left">about me..</h2>
+<p>I work with hardware maintenance and technology solutions. I am passionate about technology, particularly programming, hardware, and gaming. I also enjoy sports and value teamwork, discipline, and continuous self-improvement. I am always eager to learn new skills and stay updated with the latest technological advancements.</p>
 
 ###
 
