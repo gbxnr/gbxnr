@@ -14,15 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
+<h1 data-importer="text" align="left">Hey What's up?</h1>
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is Gabriel, and I am 19 years old. I have been studying programming since I was 16. Currently, I work with hardware maintenance and security network system updates.
+
+My interest in programming began when I enrolled in a Technical Course in Systems Development during high school. After completing the course, I pursued a degree in Software Engineering.
+
+I am a dedicated professional who is constantly seeking to expand my knowledge and skills in the field of programming. I am passionate about technology and committed to continuous learning and professional growth.
+</p>
 
 ###
 
-<h2 data-importer="text" align="left">About me</h2>
+<h2 data-importer="text" align="left">I work with hardware maintenance and technology solutions. I am passionate about technology, particularly programming, hardware, and gaming. I also enjoy sports and value teamwork, discipline, and continuous self-improvement. I am always eager to learn new skills and stay updated with the latest technological advancements.
+</h2>
 
 ###
 
